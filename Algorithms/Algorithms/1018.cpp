@@ -14,11 +14,11 @@ int main() {
 
 	for (int i = 0; i < N; i++) {
 		sv.
-		for (int j = 0; j < M; j++) {
-			char ch;
-			cin >> ch;
+			for (int j = 0; j < M; j++) {
+				char ch;
+				cin >> ch;
 
-		}
+			}
 	}
 
 	return 0;

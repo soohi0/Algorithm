@@ -42,3 +42,5 @@ void printPrimeNum( int n, int& cnt, bool* yorn, int* nums)//int* 결과 바뀜
 		}
 	}
 }
+//에라토스 테네스의 체 이용
+//2의 배수 다 제외, 3의 배수.. 다 제외.. false로 그 배열 제외해놓고 true인 배열이 소수.

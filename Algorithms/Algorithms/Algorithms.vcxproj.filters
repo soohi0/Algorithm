@@ -72,5 +72,17 @@
     <ClCompile Include="10250_ACM호텔.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7662_이중우선순위큐.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2020kakaoblind_문자열압축.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2020kakaoblind_자물쇠와 열쇠.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2020kakaoblind_기둥과보설치.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -168,7 +168,10 @@
     <ClCompile Include="1978_소수찾기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="2020kakaoblind_기둥과보설치.cpp" />
+    <ClCompile Include="2020kakaoblind_괄호변환.cpp" />
+    <ClCompile Include="2020kakaoblind_기둥과보설치.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="2020kakaoblind_문자열압축.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
